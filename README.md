@@ -1,6 +1,8 @@
 # SandMann
+<p align="center">
+  <img src="coreml.png" width="329" height="295"/>
+</p>
 
-<img src="coreml.png" width="329" height="295"/>
 
 > A SwiftUI app that uses a CoreML model to predict a user's actual bedtime based off the amount of coffee they consume in a day.
 
